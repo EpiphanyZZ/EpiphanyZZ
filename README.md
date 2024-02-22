@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EpiphanyZZ
+- 👀 I’m interested in Computer Science and AI
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Leo_ZhangXYJ@outlook.com
